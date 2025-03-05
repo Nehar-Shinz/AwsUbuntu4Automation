@@ -23,7 +23,7 @@ This script automates the installation of:
 Run this script with a single curl command:
 
 ```bash
-curl -s https://raw.githubusercontent.com/username/repo/main/setup.sh | sudo bash
+curl -s https://raw.githubusercontent.com/Nehar-Shinz/AwsUbuntu4Automation/main/setup.sh | sudo bash
 ```
 
 > ⚠️ **Security Note**: Always review scripts before running them with sudo privileges.
